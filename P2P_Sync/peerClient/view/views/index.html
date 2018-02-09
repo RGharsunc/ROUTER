@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <link rel="stylesheet" href="/view/styles/style.css" >
+  <link rel="stylesheet" href="/view/styles/notify.css" >
+  <!-- <link rel="stylesheet" href="/view/styles/prettify.css" > -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+
+<body ng-app="p2pModule">
+  <pre id="serverMessage"></pre>
+
+  <div class="container" ng-view>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"crossorigin="anonymous"></script>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.js"></script>
+  <script src="/view/scripts//other/notify.js"></script>
+  <script src="/view/scripts//other/prettify.js"></script>
+
+  <!--My Scripts -->
+  <script src="/view/scripts/module.js"></script>
+  <script src="/view/scripts/routs/router.js"></script>
+  <script src="/view/scripts/socketServise.js"></script>
+  <script src="/view/scripts/controllers/registration/registration.js"></script>
+  <script src="/view/Resources/errorMessages.js"></script>
+  <script src="/view/scripts/controllers/login/login.js"></script>
+  <script src="/view/scripts/controllers/addDevice/addDevice.js"></script>
+  <script src="/view/scripts/controllers/changeDeviceName/changeDeviceName.js"></script>
+  <script src="/view/scripts/controllers/changePassword/changePassword.js"></script>
+  <script src="/view/scripts/controllers/deleteDevice/deleteDevice.js"></script>
+  <script src="/view/scripts/controllers/home/home.js"></script>
+</body>
+</html>

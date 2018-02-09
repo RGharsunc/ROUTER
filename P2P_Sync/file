@@ -1,0 +1,633 @@
+commit fc2673bf8d465e0ec3c7cdd87a03ee3f35e274cb
+Author: Karen <karenkirakosyan1993@gmail.com>
+Date:   Fri Feb 9 13:39:26 2018 +0400
+
+    last commit
+
+commit af2a29a6e46c91a1e42f3a92f3951e89e636eecb
+Merge: ebf997c 1cc6735
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Feb 9 10:51:50 2018 +0400
+
+    Merge branch 'dev' of ssh://172.17.8.107:/home/student/P2P_Sync into dev
+
+commit 1cc6735d64d57cec8cc03816aefb75f290d658e9
+Author: Karen <karenkirakosyan1993@gmail.com>
+Date:   Fri Feb 9 10:48:32 2018 +0400
+
+    chenging registration socket emitor
+
+commit ebf997c4b23cca3b25c8cbe10952749ae3c3ce12
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Feb 9 09:50:38 2018 +0400
+
+    Changes in presentation file
+
+commit 98c89fd59336d57420384a6c32c25d0d297606e5
+Author: Karen <karenkirakosyan1993@gmail.com>
+Date:   Thu Feb 8 16:50:52 2018 +0400
+
+    vershion to release
+
+commit 1d90a4a184258e6713d15e45f5818bc3b668096a
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Feb 8 15:41:46 2018 +0400
+
+    Presentation file
+
+commit 05afb817fd90f43819f730daad542c53425d0ba4
+Merge: 59b5784 5ce262a
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Feb 8 15:33:47 2018 +0400
+
+    Merge branch 'dev' of ssh://172.17.8.107:/home/student/P2P_Sync into dev
+
+commit 59b57842caf123f20a6f4f41ed1ded8eed94ca76
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Feb 8 15:32:36 2018 +0400
+
+    Added documents
+
+commit 5ce262ae1eaa5bfb98846288f08a7ccf5fbc37ba
+Merge: 7b83f23 8262f02
+Author: StudentITC <vndk@gmail.com>
+Date:   Thu Feb 8 13:03:02 2018 +0400
+
+    Merge branch 'dev' of /home/student/P2P_Sync into dev
+
+commit 7b83f23ac591f4879131529218c0693051640d81
+Author: StudentITC <vndk@gmail.com>
+Date:   Thu Feb 8 13:02:56 2018 +0400
+
+    Delete some commits
+
+commit 8262f02cda720816f22e6d17d5b3ef7eabc35594
+Merge: e3f12b6 c21cba7
+Author: Karen <karenkirakosyan1993@gmail.com>
+Date:   Thu Feb 8 12:19:33 2018 +0400
+
+    Merge branch 'dev' of ssh://172.17.8.107:/home/student/P2P_Sync into dev
+
+commit e3f12b6b8c39f523bb20a8427df73331f530afbf
+Author: Karen <karenkirakosyan1993@gmail.com>
+Date:   Thu Feb 8 12:19:21 2018 +0400
+
+    Last commit
+
+commit c21cba77609fe7399a7e0eeca1d9f7cad5968ee4
+Author: Suren888 <nikoghosyan_suren@mail.ru>
+Date:   Thu Feb 8 12:18:55 2018 +0400
+
+    changin input type text to password
+
+commit dc576ffd7b2b9e303707cd28208e85a5c0b40295
+Merge: f300073 69cb94e
+Author: Suren888 <nikoghosyan_suren@mail.ru>
+Date:   Thu Feb 8 11:58:40 2018 +0400
+
+    Merge branch 'dev' of ssh://172.17.8.107:/home/student/P2P_Sync into dev
+
+commit f3000739db8b77fafd971e6492f29b17645d6ff2
+Author: Suren888 <nikoghosyan_suren@mail.ru>
+Date:   Thu Feb 8 11:58:29 2018 +0400
+
+    Corrected UI bags
+
+commit 69cb94e3865df46abec332eed78f227cf4c3cac3
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Mon Feb 5 17:29:25 2018 +0400
+
+    changed sever/config logic after release
+
+commit 65d031d6b728fdfb864560945626b401e51fac2f
+Merge: 327f707 daf6c9e
+Author: KarenLusine <student@instigate.com>
+Date:   Mon Feb 5 11:27:41 2018 +0400
+
+    Merge dev to routing server
+
+commit 327f7079441574dd0bc2496b771dacb5ad2f42b8
+Author: KarenLusine <student@instigate.com>
+Date:   Mon Feb 5 11:05:08 2018 +0400
+
+    last working version
+
+commit daf6c9e7a0f1a8ec0480f4839fbd8b775f4c7335
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Fri Feb 2 18:15:46 2018 +0400
+
+    sdv
+
+commit 0fab65e916d9282af2a36aac615166947a82f061
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Fri Feb 2 18:15:30 2018 +0400
+
+    fdg
+
+commit 0485d792604dbc1395ac209b2655f4266f1a2e99
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Feb 2 17:32:36 2018 +0400
+
+    Add some simple comments after Karen ;)
+
+commit d200539245df3b90ec91bb194077b7f5990b20ba
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Feb 2 16:14:41 2018 +0400
+
+    delete update is warking1
+
+commit 428b42b7cc3cd921c894d09e4e67e7334b41d5e4
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Feb 2 16:08:03 2018 +0400
+
+    delete update is warking
+
+commit f83547d1a12d4e92b1107d32354a8e6c0db31b40
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Feb 2 14:59:35 2018 +0400
+
+    delte is working
+
+commit f2ac6644003b5e7f5832a95dbef3fcac9863c1b5
+Merge: 8533874 ac1cfc7
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Feb 2 12:39:19 2018 +0400
+
+    Merge branch 'Controller' of ssh://172.17.8.107:/home/student/P2P_Sync into Controller
+
+commit 853387465c8bf8e0072be33efe01e6e118f60024
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Feb 2 12:38:52 2018 +0400
+
+    sync deleted files
+
+commit 6eba9dfb02a0411c422c66e4494e8af2de44c254
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Thu Feb 1 18:13:27 2018 +0400
+
+    finnished router-server 1.0.2
+
+commit ac1cfc7d4952a389795ec04c0d08639a711f272d
+Author: Suren888 <nikoghosyan_suren@mail.ru>
+Date:   Thu Feb 1 16:59:52 2018 +0400
+
+    added resource file
+
+commit 892cddbebda1cb384d56125345f97fc0b529ee75
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Thu Feb 1 16:13:01 2018 +0400
+
+    finnished ROUTER-SERVER
+
+commit 6034e506513a563dc74f87f795595952f2787c20
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Thu Feb 1 16:12:36 2018 +0400
+
+    finnished one
+
+commit cc53365e2bef78cbddf4e59a54c0eaf739b53122
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Thu Feb 1 15:01:41 2018 +0400
+
+    inserted outentication logic using socket's room
+
+commit baece9c8afc2c7f64b5d6bcb2d41f6a5bf563add
+Merge: ca23a0d 7b50d3b
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Feb 1 11:02:48 2018 +0400
+
+    Merge branch 'Controller' of ssh://172.17.8.107:/home/student/P2P_Sync into Controller
+
+commit ca23a0d006245af0c2b064b09308545337a3a8fc
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Feb 1 11:02:28 2018 +0400
+
+    modified: .gitignore file
+
+commit a3f759241381cfcfc2e71adfdcd4fe052667ddea
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Feb 1 11:01:17 2018 +0400
+
+    Add watchOnFileDeletion(path) function
+
+commit 7b50d3be58a3205fedfa0d2921c3b2056184238b
+Author: Suren888 <nikoghosyan_suren@mail.ru>
+Date:   Wed Jan 31 17:43:55 2018 +0400
+
+    Correcting Login and Logut
+
+commit 0bce38755ff9be1a8b1dc04b27b4636f95d3134d
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Wed Jan 31 16:40:01 2018 +0400
+
+    corrected getting double devList
+
+commit 03983cfa1aab14353ebae898f69906cbba5c3c8d
+Author: Suren888 <nikoghosyan_suren@mail.ru>
+Date:   Wed Jan 31 10:00:51 2018 +0400
+
+    asdf
+
+commit 0e4dcb241707acc21b1a98b36f42889a4b6c3a70
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Tue Jan 30 17:45:00 2018 +0400
+
+    finnished adding broadcasting logic durind adding and deleting devices
+
+commit 2344ec1addddfc85f0f7966fb65955e1f2ba144d
+Author: Suren888 <nikoghosyan_suren@mail.ru>
+Date:   Tue Jan 30 14:13:08 2018 +0400
+
+    Correcting login, and getDeviceList
+
+commit 8a9d03d221d66a92d6e1c3126993a20331ee4162
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Tue Jan 30 12:26:54 2018 +0400
+
+    Finnished adding 'hashing password' logic
+
+commit d5f10ba8ca203055c59f5ba3b16117db464e0f76
+Merge: abc46c6 effe79f
+Author: Suren888 <nikoghosyan_suren@mail.ru>
+Date:   Tue Jan 30 11:48:19 2018 +0400
+
+     pulling Controller
+
+commit effe79f989785c2951d9546bbcc404442f7a2cfe
+Author: KarenLusine <student@instigate.com>
+Date:   Mon Jan 29 18:47:46 2018 +0400
+
+    Some changes with Aram, for page updating after synchronisation
+
+commit edef04c5e34ff8dcebc98874c124958f3da6d489
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Mon Jan 29 17:52:52 2018 +0400
+
+    ready`   1
+
+commit a5b9c2e84c0772ed676bf52a8cd2f3e7e12ca3f8
+Author: KarenLusine <student@instigate.com>
+Date:   Mon Jan 29 14:13:29 2018 +0400
+
+    Delete f3.js file.
+
+commit d570510277374840078e25b1ff83a3c189a3a567
+Author: KarenLusine <student@instigate.com>
+Date:   Mon Jan 29 12:39:03 2018 +0400
+
+    Working version - 29.01
+
+commit 3c9a79ae0fa3b6ca3b3656089a01e10ded9a12ce
+Merge: 29b8433 20e6f2f
+Author: StudentITC <vndk@gmail.com>
+Date:   Mon Jan 29 11:10:48 2018 +0400
+
+    package.json-um avelacrel enq mkdir-recursive
+
+commit 29b8433801b97529f20991a1a6561d9085a3d4b8
+Author: StudentITC <vndk@gmail.com>
+Date:   Mon Jan 29 11:07:33 2018 +0400
+
+    add package.json
+
+commit 20e6f2ff29f64dd2212dc3b4f47c167594c7e632
+Author: KarenLusine <student@instigate.com>
+Date:   Mon Jan 29 11:05:40 2018 +0400
+
+    test synch
+
+commit 321afc9e7a8211aa555434eb1aa0e816eefff93f
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Mon Jan 29 10:53:33 2018 +0400
+
+    changed skilleton (package's names, module's names etc...)
+
+commit bbb79965420bc465774e2f5004721f1c041062b5
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Jan 26 18:59:34 2018 +0400
+
+    getting current device name
+
+commit 7b0a12bd4253838985e4c215ad458691653c421f
+Merge: fa78834 5f5f3dc
+Author: StudentITC <vndk@gmail.com>
+Date:   Fri Jan 26 16:23:52 2018 +0400
+
+    Merge branch 'Controller' of /home/student/P2P_Sync into Controller
+
+commit 5f5f3dcb9f10a99461b9ce11aec0af0373975850
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Jan 26 16:20:53 2018 +0400
+
+    Luson chi grum stipvac jgjkgukyk
+
+commit 07a0bcc340a6ca288bdc210ffbb1770bafbbaf35
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Jan 26 12:46:14 2018 +0400
+
+    Kareny bzbzacel e
+
+commit 3babb8d3ec4cc141b30d182965f51de031470848
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Jan 26 12:18:33 2018 +0400
+
+    Author: Lusine
+    	-Merge login, registration, home with index.js
+
+commit aff17caefae808b4bd7b78cff5989852d6812617
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Fri Jan 26 12:11:36 2018 +0400
+
+    (changed some socket's names ` sccLogin, sccRegister, chPass)finnished pre betta vershion
+
+commit 00e642470fb5c8fe69c9a14e85bf9ccb5f0898a1
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Fri Jan 26 11:54:05 2018 +0400
+
+    pre betta vershion of router-server
+
+commit 8a090312710cfa8e9311de60ac7dded25095b8d4
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Jan 25 19:15:59 2018 +0400
+
+    After merging controller branch with View and traverseFile function. Last version
+
+commit 03eae813d5b76202e5f945ae0d85575edfcdf4c3
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Jan 25 18:46:02 2018 +0400
+
+    After merging controller with view and code for file system tree
+
+commit 36e2abc11babbc69dea8a3abbf3980e538df03bb
+Merge: bd645fd aff5a48
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Jan 25 18:07:34 2018 +0400
+
+    Merge Controller with View
+
+commit bd645fd6a5162e51c240d01f7e3914af8c278458
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Jan 25 17:53:22 2018 +0400
+
+    Last working version for file synchronisation - Before merge with View
+
+commit 0fd91fee8dce55fb080faea591300c15397d1570
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Jan 25 15:26:40 2018 +0400
+
+    Last working version for file synchronisation
+
+commit fa78834f62842b76627de5439128a885aef4ab98
+Author: StudentITC <vndk@gmail.com>
+Date:   Thu Jan 25 15:20:03 2018 +0400
+
+    dcf
+
+commit aff5a482dba2bc4541eb8e2bc9b3f67ffb651489
+Author: Suren888 <nikoghosyan_suren@mail.ru>
+Date:   Thu Jan 25 14:01:22 2018 +0400
+
+    correcting login process
+
+commit 475cf2ab42312b504a8f4d391773becff943f12c
+Merge: 840d55a 5202c9e
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Jan 25 13:02:18 2018 +0400
+
+    Merge with Synchronise-working version(without directory). Conflicts resolve
+
+commit 840d55a9ccfacabddc5a1c0858ad5dac178afd4b
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Jan 25 12:47:23 2018 +0400
+
+    npm-debug.log and peerClient/workingDirectory/
+
+commit c90ecc9c828174a0936b47b741fe2d46f3b4881d
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Jan 25 12:45:12 2018 +0400
+
+    Some simple changes before pull from Sync-working version.
+
+commit 5202c9eafc9caf7d8295bde7f04f5ae65f03649e
+Author: StudentITC <vndk@gmail.com>
+Date:   Thu Jan 25 12:41:24 2018 +0400
+
+    Synchronisation - working version (without createing directories)
+
+commit df7b73b96fc8427ba345dd93959634fff4b616f3
+Merge: 4827739 b9c7882
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Jan 25 09:46:39 2018 +0400
+
+    Merge branch 'Controller' of ssh://172.17.8.107:/home/student/P2P_Sync into Controller
+
+commit 482773963f699586ba6fa98d1259d6a0b39d9d8f
+Author: KarenLusine <student@instigate.com>
+Date:   Thu Jan 25 09:46:32 2018 +0400
+
+    Some simple changes(commits)
+
+commit b9c78822e75f2aa9a2d15863fe9959f28667679b
+Author: StudentITC <vndk@gmail.com>
+Date:   Wed Jan 24 20:01:15 2018 +0400
+
+    Some simple changes(ip+comments)
+
+commit fbddbb659833b47641d77a05e10423604b0aa235
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Wed Jan 24 19:53:36 2018 +0400
+
+    not finnished emitting sockets, till the deleteDevice function
+
+commit f89ab7ff6f109a90df653a6a80394323fea5eb04
+Author: StudentITC <vndk@gmail.com>
+Date:   Wed Jan 24 19:06:57 2018 +0400
+
+    Coorectoly working version for files.js file (changed getFilesData function)
+
+commit cd4223dfeea090f87d98514973493367b850159e
+Author: KarenLusine <student@instigate.am>
+Date:   Wed Jan 24 18:06:42 2018 +0400
+
+    yeriri
+
+commit 815690852a00285dca20278b3f8efef8344be06a
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Wed Jan 24 18:06:15 2018 +0400
+
+    compe taraaaaaaaaan!!!!!!!!!!!
+
+commit f4cdf5de20e56132544f1a729ecfc8f858d1851b
+Author: Suren888 <nikoghosyan_suren@mail.ru>
+Date:   Wed Jan 24 14:47:01 2018 +0400
+
+    changes directory structure
+
+commit a5e7cc19532193f381b825f05e9259dda61666ff
+Author: KarenLusine <student@instigate.am>
+Date:   Wed Jan 24 11:55:40 2018 +0400
+
+    test file path
+
+commit abc46c6eaef010e037e6a0a8c703ab02fbb6a7ee
+Merge: 225d390 f01c255
+Author: Suren888 <nikoghosyan_suren@mail.ru>
+Date:   Wed Jan 24 11:44:05 2018 +0400
+
+    aaa
+
+commit a21cb0eca3dac8c37e546a76a41da18cb618ed40
+Author: AramSona <student>
+Date:   Wed Jan 24 11:06:18 2018 +0400
+
+    adding addDevice, changeDeviceName, changePassword, deleteDevice views
+
+commit ad0f73d9a0427cdf3e49d177d1c5266197c4c67e
+Author: AramSona <student>
+Date:   Wed Jan 24 11:05:43 2018 +0400
+
+    adding addDevice, changeDeviceName, changePassword, deleteDevice views
+
+commit 24f3a2dc2897a55d7047812fd2c19da646a8bcc5
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Tue Jan 23 18:23:26 2018 +0400
+
+    mostly correcteed to OOP principes, steel nid to cover GETDEVICELIST() method
+
+commit 225d390d844cf75b20bd3acb25190cc40592d67c
+Author: Suren888 <nikoghosyan_suren@mail.ru>
+Date:   Tue Jan 23 17:53:58 2018 +0400
+
+    sss
+
+commit f01c255ebb4740465ba559eafe626be57aa0435c
+Author: KarenLusine <student@instigate.am>
+Date:   Tue Jan 23 17:49:16 2018 +0400
+
+    test for file transvering
+
+commit 9e5ba670cb17d3b80631974f58de189ccc5f36ec
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Tue Jan 23 15:34:03 2018 +0400
+
+    finnished handling socket emiits (from existing list), need to organise respomses
+
+commit e34639ef2728cf11a3d3a96c3ae45565131b5ff6
+Author: KarenLusine <student@instigate.am>
+Date:   Tue Jan 23 10:48:27 2018 +0400
+
+    test to p2p connection
+
+commit 8552ba107be606489224199f4f1afb83b6bb011a
+Author: AramSona <student>
+Date:   Tue Jan 23 09:58:10 2018 +0400
+
+    correctin views by bootstrap
+
+commit 5f0048595d686507d417db6e4c03511409fcc18a
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Mon Jan 22 19:31:41 2018 +0400
+
+    stell need to do some replacement from express to socket.io
+
+commit 4506af2a927539459e39adb309be74f4b343a956
+Author: KarenLusine <student@instigate.am>
+Date:   Mon Jan 22 15:22:05 2018 +0400
+
+    Working version for files.js with getFilesData() and comparePeersFiles() functions
+
+commit 7b4756c2b0bdee9c1be0d1313b6f763c7efdb651
+Author: AramSona <student>
+Date:   Mon Jan 22 14:34:32 2018 +0400
+
+    added .vscode in gitignore
+
+commit 8eaeb950fe6ef3e183927c86e9a1686fb286d6de
+Author: AramSona <student>
+Date:   Mon Jan 22 14:32:45 2018 +0400
+
+    adding new functionality in peerClient/view
+
+commit 868c527168ed17ee1791b25a4989d69bf3213f53
+Author: RafayelVardges <r.gharsunc@gmail.com>
+Date:   Mon Jan 22 13:01:35 2018 +0400
+
+    need to change request handling from express to secket.io
+
+commit b78a2d4e34c3d6ccbbbc167fa19d83bc2f948c7f
+Author: KarenLusine <student@instigate.am>
+Date:   Sat Jan 20 18:46:55 2018 +0400
+
+    Add file.js file in model for reading files and directories and for comparing two files by modify dates.
+
+commit 5d0a91e7dc08b6515969171dffc14fc131f12858
+Author: KarenLusine <student@instigate.am>
+Date:   Fri Jan 19 19:00:39 2018 +0400
+
+    Second commit
+
+commit 63af7497aeda3c22a8b33162730220f9ff8bc6c0
+Author: AramSona <student>
+Date:   Fri Jan 19 18:47:39 2018 +0400
+
+    some chenges
+
+commit 523af028e1eaa6facddcf426aaeae2b0afccab22
+Author: KarenLusine <student@instigate.am>
+Date:   Fri Jan 19 18:45:44 2018 +0400
+
+    Changes- testing for
+
+commit aac70b60424f89fb70538d80ec37e527bc3f4884
+Author: AramSona <student>
+Date:   Fri Jan 19 14:30:11 2018 +0400
+
+    adding package.json
+
+commit 9a3a0a21a9a39f931c0e8655faf7b8678574a1c4
+Author: AramSona <student>
+Date:   Fri Jan 19 14:28:37 2018 +0400
+
+    merge view
+
+commit e7ed36fb689cc4856faea1f4f353fb8b75c5eacb
+Author: AramSona <student>
+Date:   Fri Jan 19 14:20:24 2018 +0400
+
+    Adding PeerClient files
+
+commit 3d7d4c29861681529a40df641a628eb0688dac8e
+Author: AramSona <student>
+Date:   Fri Jan 19 14:20:07 2018 +0400
+
+    Adding PeerClient files
+
+commit 206cd4141059b77bb60cf5bed3738c0b3cdd05f0
+Author: AramSona <student>
+Date:   Fri Jan 19 12:53:56 2018 +0400
+
+    Adding PeerClient files
+
+commit 7e5f494396dc6ce2f5d91b0e4399917242eed55f
+Author: AramSona <student>
+Date:   Fri Jan 19 12:52:42 2018 +0400
+
+    Adding PeerClient files
+
+commit fab8a693a8bd3c00b7a5f257680111cd4e37d772
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Jan 19 12:24:05 2018 +0400
+
+    Structured files for the project
+
+commit 20b6cbc41ab831a7cd94efd66cb602d3f11a4083
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Jan 19 12:10:21 2018 +0400
+
+    Adding a .gitignore file, that contains node_modules
+
+commit c9e769e97aba63fa7fb7bf797bc874b7def6df2a
+Author: KarenLusine <student@instigate.com>
+Date:   Fri Jan 19 11:58:58 2018 +0400
+
+    Add README.md file

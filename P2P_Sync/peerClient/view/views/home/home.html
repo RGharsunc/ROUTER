@@ -1,0 +1,57 @@
+<h1>Home {{currentDeviceName}}</h1>
+<div style="display: block;float: right">
+  <input type="button" ng-click="logout()" value="Log Out">
+</div>
+<div style="display: block">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary rounded float-right">
+    <ul class="navbar-nav ml-auto">
+      <li id='changePassword' class="nav-item active">
+        <a class="nav-link" href="#!changePassword">Change Password</a>
+      </li>
+      <li id='addDevice' class="new-item active">
+        <a class="nav-link" href="#!addDevice">Add Device</a>
+      </li>
+      <li id='changeDeviceName' class="new-item active">
+        <a class="nav-link" href="#!changeDeviceName">Change Device Name</a>
+      </li>
+      <li id="deleteDevice" class="new-item active">
+        <a class="nav-link" href="#!deleteDevice">Delete Device</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+<div style="display: block">
+  <input type="button" ng-click="openWorkingDirectory()" value="Working Directory">
+</div>
+<br>
+<br>
+
+<script type="text/ng-template" id="tree_item_renderer.html">
+  <div class="dir"></div>{{dir.name}}
+  <ul style="list-style-type:none">
+    <li ng-repeat="dir in dir.dirs" ng-include="'tree_item_renderer.html'"></li>
+  </ul>
+  <ul style="list-style-type:none">
+    <li ng-repeat="f in dir.files">
+      <div class="file"></div>{{f}}
+      <li>
+  </ul>
+</script>
+
+<div class="float-left">
+  <ul style="list-style-type:none">
+    <li ng-repeat="dir in filesNames" ng-include="'tree_item_renderer.html'"></li>
+  </ul>
+</div>
+<div class="float-right">
+  <table>
+    <tr style="margin-bottom: 10px" ng-repeat="d in devices">
+      <td>
+          <button value={{d.ip}} style="width: 100%;background-color:{{ d.status ? 'chartreuse' : 'indianred'}}" 
+                  ng-click="d.status ? sync(d.ip) : ''">
+            {{d.name}}
+          </button>
+      </td>
+    </tr>
+  </table>
+</div>
